@@ -1,0 +1,187 @@
+@import url('https://fonts.googleapis.com/css2?family=Catamaran:wght@300;400;700&family=Open+Sans:wght@400;500;600&display=swap');
+
+body{
+	color: #898989;
+}
+:root{
+	--color-negro:#282d33;
+	--menu-hover:#282d33;
+	--fondo-footer:#30363d;
+	--color-footer:#898989;
+}
+
+
+
+header{
+	background-color: #fff;
+}
+
+
+
+#herotitle{
+	background-image: url("../img/Services-Title-Image.jpg");
+	background-size: cover;
+	background-position: top center;
+}
+#herotitle h1{
+	text-align: center;
+	font-weight: 400;
+	font-size: 80px;
+	color: #FFFFFF;
+	padding: 110px 0;
+}
+
+
+
+.titulo{
+	color: #282d33;
+}
+
+
+
+.fullyresponsive .btn{
+	padding: 20px 30px;
+	background-color: #FFFFFF;
+	border: none;
+	text-transform: uppercase;
+	font-size: 13px;
+	font-weight: 800;
+	letter-spacing: 1px;
+	color: #000000;
+	border-bottom-left-radius: 40%;
+	border-bottom-right-radius: 40%;
+	border-top-left-radius: 40%;
+	border-top-right-radius: 40%;
+}
+.woocommerceintegrated .btn{
+	padding: 20px 30px;
+	background-color: #282d33;
+	border: none;
+	text-transform: uppercase;
+	font-size: 13px;
+	font-weight: 800;
+	letter-spacing: 1px;
+	color: #FFFFFF;
+	border-bottom-left-radius: 40%;
+	border-bottom-right-radius: 40%;
+	border-top-left-radius: 40%;
+	border-top-right-radius: 40%;
+}
+.pixelperfectdesign .btn{
+	padding: 20px 30px;
+	background-color: #282d33;
+	border: none;
+	text-transform: uppercase;
+	font-size: 13px;
+	font-weight: 800;
+	letter-spacing: 1px;
+	color: #FFFFFF;
+	border-bottom-left-radius: 40%;
+	border-bottom-right-radius: 40%;
+	border-top-left-radius: 40%;
+	border-top-right-radius: 40%;
+}
+
+
+#icons{
+	margin-top: 100px;
+	text-align: center;
+	margin-bottom: 100px;
+}
+#icons i{
+	color: #e0e0e0;
+	font-size: 130px;
+	margin-bottom: 20px;
+}
+#icons h5{
+	margin-bottom: 20px;
+}
+#icons .cheque{
+	font-size: 50px;
+	margin-top: 50px;
+	color: #53c3c9;
+}
+
+
+
+#info{
+	background-color: #f7f7f7;
+	padding-top: 90px;
+	text-align: center;
+	padding-bottom: 100px;
+}
+#info h1{
+	margin-bottom: 30px;
+}
+#info h5{
+	margin-bottom: 20px;
+}
+#info .subtitulo{
+	margin-bottom: 90px;
+}
+#info img{
+	margin-bottom: 50px;
+}
+
+
+
+#features .fullyresponsive{
+	background-color: #3d4248;
+	padding: 50px;
+}
+#features .woocommerceintegrated{
+	background-color: #d8d8d8;
+	padding: 50px;
+}
+#features .pixelperfectdesign{
+	background-color: #f0f0f0;
+	padding: 50px;
+}
+
+
+footer .titulo{
+	color: #FFFFFF;
+	margin: 50px 0;
+}
+footer{
+	background-color: var(--fondo-footer);
+	color: var(--color-footer);
+	padding: 20px 0;
+	text-align: left;
+	font-size: 13px;
+}
+footer ul{
+	margin: 0 50px;
+}
+footer li a{
+	width: 30px;
+	height: 30px;
+	line-height: 30px;
+	background-color: #171717;
+	display: block;
+	text-align: center;
+	border-radius: 100%;
+	color: #BBBBBB;
+	font-size: 16px;
+}
+footer p{
+	text-align:center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
